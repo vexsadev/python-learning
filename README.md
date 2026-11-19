@@ -7,4 +7,4 @@ project with its own `pyproject.toml`, source and tests.
 
 | Folder | Description |
 | --- | --- |
-| [`welcomcode/`](welcomcode/) | Basic Hello World package with a console script and pytest tests |
+| [`welcomecode/`](welcomecode/) | Basic Hello World package with a console script and pytest tests |

@@ -1,11 +1,11 @@
-# welcomcode
+# welcomecode
 
 A basic Hello World Python project.
 
 ## Structure
 
 ```
-welcomcode/
+welcomecode/
 ├── pyproject.toml          # Project metadata & config
 ├── README.md
 ├── src/
@@ -20,7 +20,7 @@ welcomcode/
 ## Setup
 
 ```bash
-cd welcomcode
+cd welcomecode
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
